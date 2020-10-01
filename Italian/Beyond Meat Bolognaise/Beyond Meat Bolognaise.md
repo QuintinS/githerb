@@ -2,16 +2,16 @@
 
 ## Meta
 
-**Author:** Quintin Schnehage
-**Date:** 30 September 2020
-**Jetpacks:** Yes
+- **Author:** Quintin Schnehage
+- **Date:** 30 September 2020
+- **Jetpacks:** Yes
+
+_________________
 
 - **Prep Time:** 15 Minutes
 - **Cooking Time:** 30 Minutes
 
 ## Photos
-
-![Photo 1](images/Simmer Seasonings.jpg)
 
 ![Photo 2](images/Plated.jpg)
 
@@ -40,13 +40,12 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 
 ### Equipment
 
-- A large, broad-based, deep pan (or shallow pot / casserole dish).
-- A medium sized pot for the spaghetti.
+- A large, broad-based, deep pan (or shallow pot / casserole dish)
+- A medium sized pot for the spaghetti
 - A cutting board. (preferably the kind that doesn't retain DNA evidence)
 - Knives (Knives. Knives! **KNIVES.**)
 - Therapy (but that's besides the point)
-
-- Optional: A food processor to help mix herbs and prepare the parmesan.
+- *Optional:* A food processor to help mix herbs and prepare the parmesan.
 
 ### Main Ingredients
 
@@ -101,7 +100,7 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 - At this point, taste the mince and _adjust your seasoning_ if you want. I added some more chutney, mint and sage and a bit of extra salt.
 - You'll want to make sure all of the mince is covered by the liquid in the pan so that the mince and mushrooms can soak in the flavours as it simmers. If you need to, add in a bit of water. Then set aside on a low-medium heat and allow to simmer with the lid off.
 - ***Stir regularly while the spagehtti cooks.***
-- At this point I'd had a few drinks, and decided to add some **whiskey** to the mix. I don't know if we could even taste it in the end, but I thought why not. My judgement may have been impaired.
+- At this point I'd had a few drinks, and decided to add some **whiskey** to the mix. I don't know if we could even taste it in the end, but I thought why not. My judgement may have been impaired. ***NB: This makes the recipe non-gluten free.*** If we hadn't realised this, we may nearly have killed a friend of ours. 😅
 
 
 #### Spaghetti
@@ -125,9 +124,9 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 ## Gallery of Reference Images
 
 - [Prep](images/Prep.jpg)
-- [Mince (Seasoning)](images/Mince Seasoning.jpg)
-- [Mince (Ready for Cooking)](images/Mince Ready.jpg)
-- [Mince (Browned)](images/Mince Browned.jpg)
+- [Mince Seasoning](images/Mince Seasoning.jpg)
+- [Mince Ready for Cooking](images/Mince Ready.jpg)
+- [Mince Browned](images/Mince Browned.jpg)
 - [Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
 - [Fruit Chutney Added](images/Chutney.jpg)
 - [Mushrooms Added](images/Mushroooms.jpg)
@@ -138,5 +137,7 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 _________________
 
 Enjoy! — Q
+
+## Dog Tax (Snoekie)
 
 ![Dog Tax (Snoekie)](images/Snoekie.jpg)
