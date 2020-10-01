@@ -6,7 +6,7 @@
 - **Date:** 30 September 2020
 - **Jetpacks:** Yes
 
-_________________
+_________________<p></p>
 
 - **Prep Time:** 15 Minutes
 - **Cooking Time:** 30 Minutes
@@ -124,14 +124,14 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 ## Gallery of Reference Images
 
 - [Prep](images/Prep.jpg)
-- [Mince Seasoning](images/Mince Seasoning.jpg)
-- [Mince Ready for Cooking](images/Mince Ready.jpg)
-- [Mince Browned](images/Mince Browned.jpg)
+- [Prep](images/Mince Seasoning.jpg)
+- [Prep](images/Mince Ready.jpg)
+- [Prep](images/Mince Browned.jpg)
 - [Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
 - [Fruit Chutney Added](images/Chutney.jpg)
 - [Mushrooms Added](images/Mushroooms.jpg)
 - [Simmer](images/Simmer.jpg)
-- [Extra Seasoning while Simmering](images/Simmer Seasonings.jpg)
+- [Extra Seasoning](images/Simmer Seasonings.jpg)
 - [Spaghetti Cooking](images/Spaghetti.jpg)
 - [Plated](images/Plated.jpg)
 _________________
