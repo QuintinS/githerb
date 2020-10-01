@@ -7,13 +7,18 @@
 - **Prep Time:** 15 Minutes
 - **Cooking Time:** 30 Minutes
 
+[Photo 1](images/Simmer Seasonings.jpg)
+[Photo 2](images/Plated.jpg)
+
+_________________
+
 *If it matters, this recipe is:*
 
 - Gluten-Free
 - Soy-Free
 - Meat, Egg and Dairy-Free
 
--
+_________________
 
 This is a fun vegan spin on mince spaghetti bolognaise. I came up with it one night, feeling like I wanted to experiment a bit, but it's a really easy dish to make. It was also *godlike* in its deliciousness and, if I do say so myself, worthy of the Flying Spaghetti Monster - Praise Be to His Noodley Appendages.
 
@@ -27,9 +32,6 @@ We topped it off with some tasty vegan "parmesan" made up of powdered cashew nut
 
 We didn't use a white sauce, but you could easily make some great vegan white sauce with almond milk and some cake flour.
 
-## Photos
-
-[Prep Photo](/assets/images/tux.png)
 
 ## You will need:
 
@@ -63,12 +65,13 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 - Basil
 - Oregano
 - Sage
+- Rosemary
 - Thyme
 - Mint (Peppermint or Spearmint)
 - Black Pepper
 - Table Salt
 
-## Recipe
+## Cooking Instructions
 
 ### Prep
 
@@ -76,7 +79,7 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 - Finely dice the **garlic** and set aside.
 - Finely dice the **jalapeno peppers** and set aside.
 - Peel and dice the **onion** and set aside. (I used a Nutribullet so I didn't cry from cutting it, and it actually worked quite well).
-- Finally, the mince. Put the **Beyond Beef Ground Meat** on a cutting board. Work some of the **seasonings** (basil, oregano, sage, thyme, salt and black pepper) and the **diced jalapeno peppers** into the mince. Knead and work the mince until the spices are evenly spread. Add in a small amount of the **diced onion** and **finely diced garlic** if you like.
+- Finally, the mince. Put the **Beyond Beef Ground Meat** on a cutting board. Work some of the **seasonings** (basil, oregano, sage, rosemary, thyme, salt and black pepper) and the **diced jalapeno peppers** into the mince. Knead and work the mince until the spices are evenly spread. Add in a small amount of the **diced onion** and **finely diced garlic** if you like.
 - ***Wash your hands.*** Not just but because we're in a pandemic, but because Beyond Mince is oily AF. Ew.
 
 ### Cooking
@@ -114,4 +117,23 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 - Mince in between.
 - Parmesan on top.
 
+## Gallery
+
+[Prep](images/Prep.jpg)
+[Mince (Seasoning)](images/Mince Seasoning.jpg)
+[Mince (Ready for Cooking)](images/Mince Ready.jpg)
+[Mince (Browned)](images/Mince Browned.jpg)
+[Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
+[Fruit Chutney Added](images/Chutney.jpg)
+[Mushrooms Added](images/Mushroooms.jpg)
+[Simmer](images/Simmer.jpg)
+[Extra Seasoning while Simmering](images/Simmer Seasonings.jpg)
+[Spaghetti Cooking](images/Spaghetti.jpg)
+[Plated](images/Plated.jpg)
+_________________
+
 Enjoy! — Q
+
+**Dog Tax: Snoekie**
+
+[Dog Tax](images/Snoekie.jpg)
