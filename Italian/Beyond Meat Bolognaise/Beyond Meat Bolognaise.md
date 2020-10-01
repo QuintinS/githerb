@@ -36,9 +36,7 @@ We topped it off with some tasty vegan "parmesan" made up of powdered cashew nut
 We didn't use a white sauce, but you could easily make some great vegan white sauce with almond milk and some cake flour.
 
 
-## You will need:
-
-### Equipment
+### You will need:
 
 - A large, broad-based, deep pan (or shallow pot / casserole dish)
 - A medium sized pot for the spaghetti
