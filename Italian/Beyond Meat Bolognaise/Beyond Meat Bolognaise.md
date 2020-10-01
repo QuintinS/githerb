@@ -124,9 +124,9 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 ## Gallery of Reference Images
 
 - [Prep](images/Prep.jpg)
-- [Prep](images/Mince Seasoning.jpg)
-- [Prep](images/Mince Ready.jpg)
-- [Prep](images/Mince Browned.jpg)
+- [Mince Seasoning](images/Mince Seasoning.jpg)
+- [Mince Ready](images/Mince Ready.jpg)
+- [Mince Browned](images/Mince Browned.jpg)
 - [Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
 - [Fruit Chutney Added](images/Chutney.jpg)
 - [Mushrooms Added](images/Mushroooms.jpg)
