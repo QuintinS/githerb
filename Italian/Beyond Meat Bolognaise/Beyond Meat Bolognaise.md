@@ -6,7 +6,7 @@
 - **Date:** 30 September 2020
 - **Jetpacks:** Yes
 
-_________________<p></p>
+## Time Required
 
 - **Prep Time:** 15 Minutes
 - **Cooking Time:** 30 Minutes
@@ -100,7 +100,8 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 - At this point, taste the mince and _adjust your seasoning_ if you want. I added some more chutney, mint and sage and a bit of extra salt.
 - You'll want to make sure all of the mince is covered by the liquid in the pan so that the mince and mushrooms can soak in the flavours as it simmers. If you need to, add in a bit of water. Then set aside on a low-medium heat and allow to simmer with the lid off.
 - ***Stir regularly while the spagehtti cooks.***
-- At this point I'd had a few drinks, and decided to add some **whiskey** to the mix. I don't know if we could even taste it in the end, but I thought why not. My judgement may have been impaired. ***NB: This makes the recipe non-gluten free.*** If we hadn't realised this, we may nearly have killed a friend of ours. 😅
+
+At this point I'd had a few drinks, and decided to add some **whiskey** to the mix. I don't know if we could even taste it in the end, but I thought why not. My judgement may have been impaired. ***NB: This makes the recipe non-gluten free.*** If we hadn't realised this, we may nearly have killed a friend of ours. 😅
 
 
 #### Spaghetti
