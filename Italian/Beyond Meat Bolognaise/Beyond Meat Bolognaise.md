@@ -1,5 +1,7 @@
 # "Beyond Meat" Mince Spaghetti Bolognaise
 
+## Meta
+
 **Author:** Quintin Schnehage
 **Date:** 30 September 2020
 **Jetpacks:** Yes
@@ -7,18 +9,19 @@
 - **Prep Time:** 15 Minutes
 - **Cooking Time:** 30 Minutes
 
-[Photo 1](images/Simmer Seasonings.jpg)
-[Photo 2](images/Plated.jpg)
+## Photos
 
-_________________
+![Photo 1](images/Simmer Seasonings.jpg)
 
-*If it matters, this recipe is:*
+![Photo 2](images/Plated.jpg)
+
+## If it matters, this recipe is:
 
 - Gluten-Free
 - Soy-Free
 - Meat, Egg and Dairy-Free
 
-_________________
+## Description
 
 This is a fun vegan spin on mince spaghetti bolognaise. I came up with it one night, feeling like I wanted to experiment a bit, but it's a really easy dish to make. It was also *godlike* in its deliciousness and, if I do say so myself, worthy of the Flying Spaghetti Monster - Praise Be to His Noodley Appendages.
 
@@ -34,6 +37,8 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 
 
 ## You will need:
+
+### Equipment
 
 - A large, broad-based, deep pan (or shallow pot / casserole dish).
 - A medium sized pot for the spaghetti.
@@ -115,25 +120,23 @@ We didn't use a white sauce, but you could easily make some great vegan white sa
 
 - Spaghetti on the bottom.
 - Mince in between.
-- Parmesan on top.
+- Grated Vegan Cheese and Vegan Parmesan on top.
 
-## Gallery
+## Gallery of Reference Images
 
-[Prep](images/Prep.jpg)
-[Mince (Seasoning)](images/Mince Seasoning.jpg)
-[Mince (Ready for Cooking)](images/Mince Ready.jpg)
-[Mince (Browned)](images/Mince Browned.jpg)
-[Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
-[Fruit Chutney Added](images/Chutney.jpg)
-[Mushrooms Added](images/Mushroooms.jpg)
-[Simmer](images/Simmer.jpg)
-[Extra Seasoning while Simmering](images/Simmer Seasonings.jpg)
-[Spaghetti Cooking](images/Spaghetti.jpg)
-[Plated](images/Plated.jpg)
+- [Prep](images/Prep.jpg)
+- [Mince (Seasoning)](images/Mince Seasoning.jpg)
+- [Mince (Ready for Cooking)](images/Mince Ready.jpg)
+- [Mince (Browned)](images/Mince Browned.jpg)
+- [Tomatoes and Bolognaise Sauce Added](images/Tomatoes.jpg)
+- [Fruit Chutney Added](images/Chutney.jpg)
+- [Mushrooms Added](images/Mushroooms.jpg)
+- [Simmer](images/Simmer.jpg)
+- [Extra Seasoning while Simmering](images/Simmer Seasonings.jpg)
+- [Spaghetti Cooking](images/Spaghetti.jpg)
+- [Plated](images/Plated.jpg)
 _________________
 
 Enjoy! — Q
 
-**Dog Tax: Snoekie**
-
-[Dog Tax](images/Snoekie.jpg)
+![Dog Tax (Snoekie)](images/Snoekie.jpg)
